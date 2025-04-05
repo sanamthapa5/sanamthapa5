@@ -1,5 +1,7 @@
 ## About Me :
-Hello! 👋 I'm Sanam Thapa<br>
+Hello! 👋 I'm **Sanam Thapa**  — a passionate and curious learner from Nepal 🇳🇵.  <br>
+I'm currently a final year student pursuing my Bachelor's degree in Computer Science and IT.
+
 
 <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Alt Text">
 
